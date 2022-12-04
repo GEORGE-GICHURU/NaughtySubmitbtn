@@ -2,7 +2,7 @@
 
 ## Author
 
-George Gichuru
+Sajeed
 
 ## Instructions
 
